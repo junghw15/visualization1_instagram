@@ -1,5 +1,5 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# 인스타그램 데이터 시각화
+> crawling2_instagram repository에서 크롤링한 인스타그램 데이터로 시각화를 수행함
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
